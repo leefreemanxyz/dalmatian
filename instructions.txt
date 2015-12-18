@@ -1,0 +1,10 @@
+Use vv to create new Wordpress instance + server - yes
+Create a new underscores project on underscores.me - yes
+Navigate to your project file and npm init. - yes
+Now import our Foundation 6 using npm - these files now appear in node_modules. - yes
+Set up gulpfile.js (gulp-uglify, gulp-sass, gulp-minify-css, gulp-rename, gulp-autoprefixer) - yes
+Enqueue scripts and stylesheets
+Initialise JS.
+Add Foundation off-canvas menu
+Add rows and columns
+Set up git and direct to either a github or bitbucket page.
